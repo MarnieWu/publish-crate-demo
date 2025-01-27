@@ -1,6 +1,11 @@
 [package]
-name = "publish_test"
+name = "publish-crate-with-github-actions-demo"
 version = "0.1.0"
 edition = "2021"
+license = "MIT"
+description = "This package is used for test publishing a crate with github actions"
+homepage = "https://marniewu.github.io/post/rust-test"
+repository = "https://github.com/MarnieWu/publish-crate-demo"
+readme = "README.md"
 
 [dependencies]

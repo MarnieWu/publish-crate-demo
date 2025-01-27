@@ -1,4 +1,4 @@
-use publish_test::utils::add;
+use publish_crate_with_github_actions_demo::utils::add;
 
 #[test]
 fn example_1_2() {
